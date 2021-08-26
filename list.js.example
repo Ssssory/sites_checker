@@ -1,0 +1,5 @@
+const sites = [
+    { "name": "google", "url": 'https://google.ru/' },
+];
+
+exports.sites = sites;
